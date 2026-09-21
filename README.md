@@ -1,13 +1,13 @@
 ##  Hi 👋, I'm Eniola Kayode
 
-A passionate data Analyst In Nigeria,  I have a strong background in data analysis, visualization, and storytelling. 
+I have interests in Data Analysis, Data Engineering, and Bioinformatics.
 
-* 🌱 I am a certified IBM Data Analyst Professional.
-* 💞️ I’m looking to collaborate on Data Analysis/ Data Science projects.
+* 🌱 I am currently a Data Analyst upskilling into Data Engineering.
+* 💞️ I’m looking to collaborate on Data Engineering projects.
 * 📫 Connect with me on [Linkedin](www.linkedin.com/in/eniolakayode)
 
 ### Skills 
 * Data Analysis & Visualization: Excel, PowerBI, Looker Studio
-* Programming & Scripting: Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Programming & Scripting: Python (Pandas, NumPy, Seaborn, Scikit)
 * Database Management: PostgreSQL
-* Others: Jupyter Notebooks, Statistical Analysis, Cognos Analytics
+* Bash Scripting
