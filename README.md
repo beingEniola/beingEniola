@@ -7,7 +7,7 @@ I have interests in Data Analysis, Data Engineering, and Bioinformatics.
 * 📫 Connect with me on [Linkedin](www.linkedin.com/in/eniolakayode)
 
 ### Skills 
-* Data Analysis & Visualization: Excel, PowerBI, Looker Studio
-* Programming & Scripting: Python (Pandas, NumPy, Seaborn, Scikit)
-* Database Management: PostgreSQL
+* Data Analysis & Visualization
+* Python Programming
+* Database Management
 * Bash Scripting
